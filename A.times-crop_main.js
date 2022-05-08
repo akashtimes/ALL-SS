@@ -1,4 +1,10 @@
 
+/*************************
+ * Crop circle image
+ * Copyright 2020
+ * Author: akash times
+ * Version: 1.0.1 (got update on 2022 - may)
+ *************************/
 (function (root, factory) {
     if (typeof define === 'function' && define.amd) {
         // AMD. Register as an anonymous module.
