@@ -131,6 +131,7 @@ progress{vertical-align:baseline}
 .icon-box.active .icon-box-media.text-dark,.icon-box.show .icon-box-media.text-dark,.icon-box .icon-box-media.text-dark{background-color:#1f1b2d!important;color:#fff!important}
 .icon-box.active .icon-box-media.text-light,.icon-box.show .icon-box-media.text-light,.icon-box .icon-box-media.text-light{background-color:#fff!important;color:#fd5631!important}
 
+[class*=" fi-"],[class^=fi-]{display:inline-block;font-family:finder-icons!important;speak:never;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;vertical-align:middle;line-height:1}
 
 .list-unstyled{padding-left:0;list-style:none}
 .list-inline{padding-left:0;list-style:none}
