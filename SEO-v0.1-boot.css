@@ -18770,7 +18770,7 @@ textarea.form-control-lg {
 }
 
 @media (min-width: 1200px) {
-  header.navbar-sticky-on {
+  .navbar-sticky-on {
     position: fixed;
     z-index: 1020;
     top: 0;
@@ -19025,12 +19025,6 @@ body {
 
 main {
   background-color: #fff;
-}
-
-header {
-  position: relative;
-  z-index: 1020;
-  background: #fff;
 }
 
 a {
